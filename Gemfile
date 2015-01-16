@@ -28,3 +28,6 @@ gem 'spring',        group: :development
 group :test do
   gem 'capybara'
 end
+
+gem 'activeadmin', github: 'gregbell/active_admin'
+gem 'devise'
